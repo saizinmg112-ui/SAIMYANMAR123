@@ -1,0 +1,8 @@
+{
+  "name": "Remix: H Clone TTS",
+  "description": "A Text-to-Speech tool featuring video timing and speed adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
